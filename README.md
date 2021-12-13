@@ -1,4 +1,5 @@
 
+https://raw.githubusercontent.com/vimal-verma/vimal-verma/v2/img/hello.gif
 ## Hi there. I'm Zeynep...:wave:
 - :telescope: I’m currently working on Data Analyses
 - :seedling: I’m currently learning Data Analyses tools
