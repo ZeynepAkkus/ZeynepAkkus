@@ -32,7 +32,7 @@
 <a href="#" target="_blank"> <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MySQL" height="70"/> </a>
 <a href="#" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2020/08/SQLite-Logo.jpg" alt="SQLite" height="70"/> </a>
 <a href="#" target="_blank"> <img src="https://www.sysups.nl/wp-content/uploads/2018/08/microsoft_sql_database_logo.png" alt="SQLserver" height="70"/> </a>
-<a href="#" target="_blank"> <img src="https://e7.pngegg.com/pngimages/390/229/png-clipart-logo-html5-brand-design-text-logo.png" alt="HTML" height="70"/> </a>
+
 ## ⚙ Tools
 
 <a href="#" target="_blank"> <img src="https://smartgyann.files.wordpress.com/2020/05/457-4573752_read-more-on-how-you-can-use-your.png" alt="Google Sheets" height="50"/> </a>
