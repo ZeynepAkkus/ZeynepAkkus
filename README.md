@@ -3,7 +3,7 @@
 - :telescope: I’m currently working on Data Science
 - :seedling: I’m currently learning Data Science tools
 - :speech_balloon: I am happy to teach you what I know and eager to learn what you will offer
-## :woman: Social
+## :man::woman: Social
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeynepakkus/)
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/zeynepakdag83)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:zeynepakdag83@gmail.com)
