@@ -1,6 +1,6 @@
 
 ## Hi there. I'm Zeynep...:wave:
-* 🔭  I’m currently a Data Analyst (Mentor) at CLARUSWAY IT School
+* 🔭  I’m currently a Data Analyst
 * 🌱  I’m currently learning machine learning tools and algorithms 
 * ⌘  I'm willing to use machine learning algorithms in solving real-life problems
 * 👯  I’m looking to collaborate on open source 
